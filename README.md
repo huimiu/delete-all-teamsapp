@@ -38,7 +38,6 @@ python delete_teams_apps_v2.py
 
 This script will:
 - Show you what will be deleted
-- Ask for confirmation before proceeding
 - Display progress for each deletion
 - Provide a detailed summary at the end
 
@@ -49,7 +48,6 @@ This script will:
 - ✅ Bearer token left blank as requested
 - ✅ Includes error handling and retry logic
 - ✅ Shows progress and detailed summary
-- ✅ Confirmation prompt before deletion
 - ✅ Configurable delays between requests
 - ✅ Timeout handling
 
