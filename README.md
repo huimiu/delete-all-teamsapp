@@ -1,6 +1,6 @@
 # Teams App Bulk Deletion Tool
 
-This tool extracts `teamsAppId` values from a JSON file and makes API calls to delete each Teams app using a POST request with Bearer token authentication.
+This tool extracts `teamsAppId` values from a JSON file and makes API calls to delete each Teams app using a DELETE request with Bearer token authentication.
 
 ## Files Overview
 
@@ -45,7 +45,7 @@ This script will:
 ## Features
 
 - ✅ Extracts all `teamsAppId` values from JSON
-- ✅ Uses POST method with Bearer token authentication
+- ✅ Uses DELETE method with Bearer token authentication
 - ✅ Bearer token left blank as requested
 - ✅ Includes error handling and retry logic
 - ✅ Shows progress and detailed summary
