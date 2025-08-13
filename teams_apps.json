@@ -1,0 +1,74 @@
+[
+    {
+        "teamsAppId": "e6452507-6f18-47dc-a942-24eb5adeb0f9",
+        "ownerAadId": "8be6614a-5163-42f2-ad74-7267f4c253b7",
+        "userList": [
+            {
+                "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+                "aadId": "8be6614a-5163-42f2-ad74-7267f4c253b7",
+                "displayName": "Hui Miao",
+                "userPrincipalName": "huimiao@microsoft.com",
+                "isAdministrator": true
+            }
+        ],
+        "appId": "e6452507-6f18-47dc-a942-24eb5adeb0f9",
+        "appName": "keyplugin0905local",
+        "appStudioVersion": "",
+        "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "shortName": "keyplugin0905local",
+        "updatedAt": "2024-09-05T07:52:01.4524122+00:00",
+        "version": "1.0.0",
+        "longName": "Full name for keyplugin0905",
+        "shortDescription": "Track and monitor car repair records for stress-free maintenance management.",
+        "colorIcon": "https://devappglobal.blob.core.windows.net/images/e6452507-6f18-47dc-a942-24eb5adeb0f9/color/51195d78-09c9-4ca0-8b80-538506e29a74",
+        "environments": null
+    },
+    {
+        "teamsAppId": "03d60f12-c493-4541-a4b9-ba4996a02cd4",
+        "ownerAadId": "8be6614a-5163-42f2-ad74-7267f4c253b7",
+        "userList": [
+            {
+                "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+                "aadId": "8be6614a-5163-42f2-ad74-7267f4c253b7",
+                "displayName": "Hui Miao",
+                "userPrincipalName": "huimiao@microsoft.com",
+                "isAdministrator": true
+            }
+        ],
+        "appId": "03d60f12-c493-4541-a4b9-ba4996a02cd4",
+        "appName": "dc9501local",
+        "appStudioVersion": "",
+        "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "shortName": "dc9501local",
+        "updatedAt": "2024-09-05T06:25:35.9910305+00:00",
+        "version": "1.0.0",
+        "longName": "Full name for dc9501",
+        "shortDescription": "Track and monitor car repair records for stress-free maintenance management.",
+        "colorIcon": "https://devappglobal.blob.core.windows.net/images/03d60f12-c493-4541-a4b9-ba4996a02cd4/color/65e70ad5-80c7-439c-a138-ff88e36dc067",
+        "environments": null
+    },
+    {
+        "teamsAppId": "b7a7c7e9-5759-490d-b7cd-94ee37e7cb15",
+        "ownerAadId": "8be6614a-5163-42f2-ad74-7267f4c253b7",
+        "userList": [
+            {
+                "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+                "aadId": "8be6614a-5163-42f2-ad74-7267f4c253b7",
+                "displayName": "Hui Miao",
+                "userPrincipalName": "huimiao@microsoft.com",
+                "isAdministrator": true
+            }
+        ],
+        "appId": "b7a7c7e9-5759-490d-b7cd-94ee37e7cb15",
+        "appName": "dc0905dev",
+        "appStudioVersion": "",
+        "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "shortName": "dc0905dev",
+        "updatedAt": "2024-09-05T06:23:46.2899329+00:00",
+        "version": "1.0.0",
+        "longName": "Full name for dc0905",
+        "shortDescription": "Short description for dc0905",
+        "colorIcon": "https://devappglobal.blob.core.windows.net/images/b7a7c7e9-5759-490d-b7cd-94ee37e7cb15/color/60ee4df2-d315-4faa-adab-75b7a665b539",
+        "environments": null
+    }
+]
